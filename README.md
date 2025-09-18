@@ -1,2 +1,2 @@
-# sh-commands
-A curated list of everyday macOS/Linux terminal commands for IT troubleshooting and administration.
+# 🧠 Quick SH Commands
+Fast reference for daily terminal troubleshooting on macOS/Linux.
